@@ -1,0 +1,20 @@
+body {
+    background-color: #000000;
+    padding: 20px;
+    margin: 0;
+  }
+  h1, h2, p, ul, li {
+    font-family: 'Franklin Gothic Medium';
+    color:#c0c0c0;
+  }
+  #crux h1{
+      text-align: center;
+  }
+  #upload{
+    display: flex;
+    justify-content: center;
+    
+  }
+  #upload button{
+      font-size: large;
+  }
