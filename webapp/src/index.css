@@ -10,11 +10,9 @@ body {
   #crux h1{
       text-align: center;
   }
-  #upload{
+  #para{
     display: flex;
     justify-content: center;
     
   }
-  #upload button{
-      font-size: large;
-  }
+  
